@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Custom Rule",
+    "pattern": "example_bad_event|test_indicator",
+    "score": 70,
+    "details": "Example only: replace this pattern with a detection indicator relevant to your environment."
+  }
+]
